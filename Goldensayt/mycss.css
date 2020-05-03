@@ -1,0 +1,498 @@
+
+.header{
+	padding:0;
+	margin: 0;
+	height: 700px;
+	background-image: url(image/background-1.png);
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: top center;
+	background-size: cover; 
+}
+.center-block {
+	display: flex;
+	justify-content: left;
+}
+.logo img{
+	padding-top: 42px;
+}
+
+ nav ul li {
+	text-decoration: none; 
+	list-style: none;
+	display: inline-block;
+	color: white;
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+
+} 
+ul li a{
+	text-decoration: none;
+	color: white; 
+	margin-right: 35px;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+	margin-top: 42px;
+	margin-left: 7% ;
+	text-align: left;
+	white-space: nowrap;	
+}
+/*------------------------------*/
+.banner{
+	max-height: 8%;
+}
+h5{ 
+	text-align: center;
+	color: white;
+	margin: 0;
+	display: block;
+	text-align: center;
+	padding-top: 205px;
+	font-size: 40px;
+} 
+	
+h3{ 
+	color: white;
+	margin: 0;
+	display: block;
+	text-align: center;
+	font-size: 75px;
+	padding-top: 40px;
+}
+.banner11{
+	display: flex;
+	justify-content: center;
+	padding-top: 60px;
+}
+/*-------SERVICES------------*/
+
+h4{
+	color: black;
+	text-align: center;
+	font-size: 46px;
+	margin: 0;
+	padding-top: 270px;
+	
+}
+p{
+	color: #777777;
+	text-align: center;
+	font-size: 16px;
+	margin: 0;
+	padding-top: 20px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.icons{
+	margin: auto;
+	display: block;
+	padding-top: 79px;
+}
+
+h2{
+	font-size: 18px;
+	text-align: center;
+	margin: 0;
+	padding-top: 25px;
+}
+.donec{
+	font-size: 14px;
+	color:#777777;
+	text-align: center;
+	margin: 0;
+	padding-top: 18px;
+}
+.section{
+	height: 384px;	
+}
+
+/*-------Portfolio------------*/
+
+.portfolio{
+	height: 1216px;
+	background-color: #a8a8a8;
+	background-size: 100%;
+
+}
+.port1{ 
+	margin: 0;
+	padding: 0;
+	font-size: 40px;	
+	color: black;
+	padding-top: 120px;
+
+	
+	
+
+}
+.port2{
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+	color: #777777;
+	padding-top: 32px;
+}
+.back{
+	background-color: white;
+	height: 392px;
+	max-width: 291px;
+	margin:  0;
+	padding: 0 ;
+	margin-top: 80px;
+	margin-left: 2.6%;	
+
+}
+
+.portf{
+	margin: 0;
+	padding: 0;	
+	
+
+
+}
+.ei{
+	margin: 0;
+	padding: 0;
+	padding-top: 27px;
+
+}
+.brand{
+	margin: 0;
+	padding: 0;
+	padding-top: 2px;
+}
+
+.two{
+	background-color: white;
+	height: 392px;
+	max-width: 291px;
+	margin:  0;
+	padding: 0 ;
+	margin-top: 80px;
+	margin-left: 2.6%;	
+}
+
+.centor{
+
+	display: flex;
+	justify-content: center;
+}
+.centor1{
+	margin-top: -50px;
+	display: flex;
+	justify-content: center;
+}
+/*----------ABOUT US--------------------*/
+.aboutbk{
+	background-color: white;
+	background-size: cover; 
+	height: 1666px;
+
+	
+}
+.about{
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	padding-top: 120px;
+	
+}
+.proin{
+	margin: 0;
+	padding: 0;
+	padding-top: 20px;
+	text-align: center;
+	font-size: 16px;
+	color:  #777777;
+	margin: 0;
+	padding: 0;
+}
+.onet{
+	margin: 0;
+	padding: 0;
+	padding-top: 81px;
+	padding-right: 3%;
+	padding-left: 3%;
+	
+}
+.one1{
+	text-align: right;
+	font-size: 18px;
+
+}
+.two2{
+	text-align: right;
+	padding-top: 10px;
+	font-size: 18px;
+
+}
+.tre3{
+	text-align: right;
+	line-height: 1.5;
+	padding-top: 16px;
+	color: #777777;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	padding-left: 20%;
+}
+
+.cyrcl{
+	display: block;
+	margin:  auto;
+	padding: 0 ;
+
+}
+
+.twoet{
+	margin: 0;
+	padding: 0;
+	padding-top: 81px;
+}
+/*-----------------------*/
+.treeet{
+	margin: 0;
+	padding: 0;
+	padding-top: 92px;
+}
+.cyrcl1{
+	display: block;
+	margin: auto;
+}
+.onet1{
+	margin: 0;
+	padding: 0;
+	padding-top: 92px;
+	padding-left: 3%;
+	padding-right: 3%;
+
+}
+.one4{
+	text-align: left;
+	font-size: 18px;
+}
+.two5{
+	text-align: left;
+	font-size: 18px;
+	padding-top: 10px;
+}
+.tre6{
+	text-align: left;
+	line-height: 1.5;
+	padding-top: 16px;
+	color: #777777;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	padding-right: 15%;
+}
+
+
+/*--------TEAM-----*/
+.teambk{
+	height: 818px;
+	background-color: #a8a8a8;
+}
+.team1{
+	margin: 0;
+	padding:0;
+	font-size: 40px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 120px;
+
+}
+.team2{
+	margin: 0;
+	padding:0;
+	color: #777777;
+	font-size: 16px;
+	text-align: center;
+	padding-top: 25px;
+}
+.worker1{
+	display: block;
+	margin: 0 auto;
+	padding-top: 83px;
+
+}
+.kim{
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 23px;
+}
+.mark{
+	font-size: 14px;
+	text-align: center;
+	color: #777777;
+	font-family: 'Montserrat', sans-serif;
+	padding-top: 12px;
+}	
+.fon{
+	height: 164px;
+
+}
+.network{
+	display:flex;
+	justify-content: center;
+	padding-top: 12px;
+}
+
+.netw1 {
+	margin: 0;
+	padding: 0;
+	padding-left: 10px;
+}
+
+.text1{
+	text-align: center;
+	color: #777777;
+	font-size: 14px;
+	padding-top: 46px;
+}
+.Link {
+	display: block;
+	margin: 0 auto;
+	padding-top: 60px;
+}
+/*--------Earth-----*/
+
+
+.earthbk{
+	background-image: url(image/earth.png);
+	height: 675px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.contact{
+	font-size: 40px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 109px;
+}
+.proin{
+	color: #777777;
+	font-size: 14px;
+	text-align: center;
+	padding-top: 18px;
+
+}	
+
+/*-----------------------*/
+.forms{
+	text-align: right;
+	padding-top: 80px;
+
+}
+
+.name{
+	width: 455px;
+	height: 50px;
+	margin-top: 29px;
+
+}
+
+textarea{
+	margin-top: 109px;
+	width: 456px;
+	height: 210px;
+
+}
+	
+.button{
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+	margin-top: 30px;
+	
+
+	
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 765px) { 
+	.center-block {
+		display: flex;
+		justify-content: center;	
+	}
+	.logo img{
+		width: 100px;
+	}
+
+	nav ul li a{ 
+		font-size: 13px;
+		margin-right: 6px;
+
+	}
+	nav ul{
+		text-align: center;
+
+	}
+	h5{ 
+		padding-top: 50px;
+		font-size: 30px;
+
+	}
+	h3{
+		padding-top: 5px;
+		font-size: 50px;
+	}
+	a img{
+		width: 200px;
+	}
+
+}
